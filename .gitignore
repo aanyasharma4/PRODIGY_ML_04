@@ -1,1 +1,14 @@
-leapgesture_data/ 
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+leapgesture_data/
